@@ -18,7 +18,7 @@ Performance Monitoring: FPS counter and detection statistics
 
 python red_TL_violationDetect.py --weights <model_path> --source <input_source> [options]
 
-![Traffic Light Violation Demo](detection_20250828_083841_970347.png)
+![Traffic Light Violation Demo](detection_20250828_083841_970347.jpg)
 
 Input Sources
 1. Camera Input
